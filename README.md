@@ -2,7 +2,7 @@
 
 ### Machines used
 
-- Ubuntu
+- Ubuntu 22.04.03
 
 Hive installation is a six step process
 

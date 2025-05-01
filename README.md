@@ -255,6 +255,6 @@ Login with the default creds.
 
 ![image.png](image%2012.png)
 
-TheHive Dashboard apears.
+TheHive Dashboard appears.
 
 ![image.png](image%2013.png)
